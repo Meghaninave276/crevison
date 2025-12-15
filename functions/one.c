@@ -19,4 +19,5 @@ int main()
 void printhello()
 {
     printf("Hello!\n");
+    printf("My name is megha\n");
 }
